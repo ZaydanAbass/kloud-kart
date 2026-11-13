@@ -30,7 +30,7 @@ Real-time streaming for everything, a large cloud data warehouse, and machine-le
 
 ## Improvement beyond the brief
 
-**Stock Watch:** a freshness badge showing how old Nana's stock numbers are, and a list of oversold items so she can contact customers first. It costs no extra software.
+**A simple website to track stock** a freshness badge showing how old Nana's stock numbers are, and a list of oversold items so she can contact customers first. It costs no extra software.
 
 ## Repository contents
 
